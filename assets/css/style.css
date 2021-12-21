@@ -512,8 +512,9 @@ p {
 }
 
 #about .about-descr .p-heading {
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", helvetica;
   font-size: 28px;
+  font-weight: bold;
   text-align: left;
   color: #1261a0
 }
