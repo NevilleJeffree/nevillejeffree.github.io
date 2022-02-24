@@ -349,6 +349,8 @@ section {
 }
 .section-title p {
   margin-bottom: 0;
+  color: #df1818;
+  font-weight: bold;
 }
 
 /*--------------------------------------------------------------
